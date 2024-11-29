@@ -744,6 +744,3 @@ where
 
 ```
 
-Re-implementing this in another language would entail creating a `Risiduals` Class,Object,Struct... depending on the
-language and mutating it's fields the same way when the `update` function is called.
-Do this for all the other trait's IPSolver uses.
